@@ -1,0 +1,13 @@
+SpeechRecognition>=3.8.1
+pyautogui>=0.9.54
+pytesseract>=0.3.10
+anthropic>=0.3.11
+elevenlabs>=1.13.1
+opencv-python>=4.8.1
+customtkinter>=5.2.1
+numpy>=1.24.3
+pillow>=10.0.0
+python-dotenv>=1.0.0
+pytest>=7.4.0
+pyaudio>=0.2.13
+pygame>=2.5.0 
